@@ -1,0 +1,37 @@
+.avatar {
+	border-radius: 100%;
+	background-color: darkgray;
+	width: 90px;
+	height: 90px;
+	padding-top: 0px;
+}
+
+.fa {
+	font-size: 33px;
+	font-weight: bolder;
+	color: #000;
+	cursor: pointer;
+}
+.fa:hover {
+	color: #da7000;
+}
+@media (min-width: 768px) {
+	.avatar-container {
+		max-width: 100px;
+	}
+}
+.cont-q{
+border: 1px solid rgb(255, 170, 0);
+padding: 4px;
+border-radius: 10px;
+}
+.cont-q:hover{
+background-color: antiquewhite;
+padding: 4px;
+border-radius: 10px;
+}
+.iconuser{
+	height: 100px;
+	width: 100px;
+
+}
